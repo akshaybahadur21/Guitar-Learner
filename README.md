@@ -43,7 +43,7 @@ python3 GuitarLearner.py
 
 ## Results 📊
 
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/final.gif">
+<img src="https://github.com/akshaybahadur21/BLOB/blob/master/guit_learn.gif">
 
 ## Future Scope 🔮
 - Add Barre chords
